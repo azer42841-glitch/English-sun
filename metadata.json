@@ -1,0 +1,6 @@
+{
+  "name": "شمس الإنجليزية – English Sun",
+  "description": "منصة إلكترونية متكاملة لتعليم اللغة الإنجليزية تفاعلياً وفق مستويات الإطار الأوروبي CEFR الستة (A1-C2) مع اختبار تحديد مستوى، دروس تفاعلية، مكتبة فيديو وقاموس ناطق.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
